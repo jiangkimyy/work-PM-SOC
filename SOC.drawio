@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-17T07:14:17.878Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="YLacTp7xLWY5GIxwPZmI" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-18T04:22:19.914Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="kxnoPwUDiEvxp1q2frvk" version="15.9.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1455" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3153" dy="2207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -52,7 +52,7 @@
           <mxGeometry x="1204" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ij-zDNfqEZCnku6-jbej-6" value="&lt;font style=&quot;font-size: 24px&quot;&gt;报名审核&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2070" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="2790" y="390.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ij-zDNfqEZCnku6-jbej-14" value="Thread 1" style="swimlane;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="4050" width="280" height="570" as="geometry" />
@@ -289,14 +289,14 @@
         <mxCell id="ij-zDNfqEZCnku6-jbej-98" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=24;strokeColor=default;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ij-zDNfqEZCnku6-jbej-94" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2120" y="910" as="sourcePoint" />
-            <mxPoint x="2130" y="640" as="targetPoint" />
+            <mxPoint x="2130" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ij-zDNfqEZCnku6-jbej-99" value="提交成功" style="ellipse;whiteSpace=wrap;html=1;sketch=0;fontSize=24;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2020" y="552" width="230" height="80" as="geometry" />
+          <mxGeometry x="2015" y="390" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ij-zDNfqEZCnku6-jbej-100" value="审核通过" style="ellipse;whiteSpace=wrap;html=1;sketch=0;fontSize=24;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="3390" y="310" width="230" height="80" as="geometry" />
+          <mxGeometry x="4419" y="330.25" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ij-zDNfqEZCnku6-jbej-102" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;sketch=0;fontSize=18;strokeWidth=3;direction=north;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="510" y="495" width="420" height="25" as="geometry" />
@@ -477,7 +477,7 @@
         <mxCell id="ij-zDNfqEZCnku6-jbej-206" value="&lt;div&gt;1、建议前期小程序报名不稳定的情况下，保留网页报名方式&lt;/div&gt;&lt;div&gt;2、后期小程序/app报名功能稳定后，移除网页报名方式，更多的引导用户使用app，通过分享app中的活动报名链接/二维码来增加用户对app的使用率&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=0;fontSize=18;strokeWidth=3;fillColor=none;direction=east;align=left;position2=0.48;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1290" y="60" width="330" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="ij-zDNfqEZCnku6-jbej-207" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 18px; font-style: normal; font-weight: normal; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); text-decoration: none; display: inline; float: none;&quot;&gt;1、这个设计有重复，如果是想只要会员参加，可以在新建活动阶段对活动进行条件限制，限制只有会员可参加活动，或者限制活动发布时，只有会员可见&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=0;fontSize=18;strokeWidth=3;fillColor=none;direction=west;align=left;position2=0.48;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ij-zDNfqEZCnku6-jbej-207" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 18px ; font-style: normal ; font-weight: normal ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; text-decoration: none ; display: inline ; float: none&quot;&gt;1、这个设计有重复，如果是想只要会员参加，可以在新建活动阶段对活动进行条件限制，限制只有会员可参加活动，或者限制活动发布时，只有会员可见；&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=0;fontSize=18;strokeWidth=3;fillColor=none;direction=west;align=left;position2=0.48;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1450" y="890" width="330" height="230" as="geometry" />
         </mxCell>
         <mxCell id="ij-zDNfqEZCnku6-jbej-208" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 24px; font-style: normal; font-weight: normal; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); text-decoration: none; display: inline; float: none;&quot;&gt;建议这些条件后移至管理员报名审核环节&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=0;fontSize=18;strokeWidth=3;fillColor=none;direction=north;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -487,46 +487,55 @@
           <mxGeometry x="2240" y="60" width="260" height="270.25" as="geometry" />
         </mxCell>
         <mxCell id="ij-zDNfqEZCnku6-jbej-210" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=12;fillColor=#FFD966;direction=east;sketch=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2520" y="419.25" width="80" height="151.5" as="geometry" />
+          <mxGeometry x="3570" y="435.5" width="80" height="151.5" as="geometry" />
         </mxCell>
         <mxCell id="ij-zDNfqEZCnku6-jbej-211" value="" style="line;strokeWidth=2;html=1;sketch=0;fontSize=18;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2170" y="480" width="160" height="10" as="geometry" />
+          <mxGeometry x="3220" y="496.25" width="160" height="10" as="geometry" />
         </mxCell>
         <mxCell id="ij-zDNfqEZCnku6-jbej-212" value="&lt;font size=&quot;4&quot;&gt;审核依据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2341" y="470" width="150" height="30" as="geometry" />
+          <mxGeometry x="3391" y="486.25" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ij-zDNfqEZCnku6-jbej-213" value="&lt;font size=&quot;4&quot;&gt;是否符合活动设置条件&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2620" y="401.5" width="230" height="28.5" as="geometry" />
+          <mxGeometry x="3670" y="417.75" width="230" height="28.5" as="geometry" />
         </mxCell>
         <mxCell id="ij-zDNfqEZCnku6-jbej-214" value="&lt;font size=&quot;4&quot;&gt;都满足条件的情况下，选择筛选方式：&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2620" y="553.5" width="230" height="28.5" as="geometry" />
+          <mxGeometry x="3670" y="569.75" width="230" height="28.5" as="geometry" />
         </mxCell>
         <mxCell id="ij-zDNfqEZCnku6-jbej-217" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=12;fillColor=#FFD966;direction=east;sketch=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2860" y="492" width="80" height="151.5" as="geometry" />
+          <mxGeometry x="3910" y="508.25" width="80" height="151.5" as="geometry" />
         </mxCell>
         <mxCell id="ij-zDNfqEZCnku6-jbej-218" value="&lt;font size=&quot;4&quot;&gt;时间顺序，先到先得&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2940" y="477.88" width="140" height="34.25" as="geometry" />
+          <mxGeometry x="3990" y="494.13" width="140" height="34.25" as="geometry" />
         </mxCell>
         <mxCell id="ij-zDNfqEZCnku6-jbej-219" value="&lt;font size=&quot;4&quot;&gt;抽签方式，随机抽签&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2940" y="632" width="230" height="28.5" as="geometry" />
+          <mxGeometry x="3989" y="648.25" width="230" height="28.5" as="geometry" />
         </mxCell>
         <mxCell id="-HxedoFoJFOzmZ5ooVSD-0" value="审核拒绝" style="ellipse;whiteSpace=wrap;html=1;sketch=0;fontSize=24;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3395" y="572" width="230" height="80" as="geometry" />
+          <mxGeometry x="4424" y="592.25" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-HxedoFoJFOzmZ5ooVSD-1" value="审核中" style="ellipse;whiteSpace=wrap;html=1;sketch=0;fontSize=24;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2855" y="718" width="230" height="80" as="geometry" />
+          <mxGeometry x="3905" y="734.25" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-HxedoFoJFOzmZ5ooVSD-4" value="&lt;font size=&quot;5&quot;&gt;报名状态反馈&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3860" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="4360" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-HxedoFoJFOzmZ5ooVSD-5" value="&lt;font size=&quot;5&quot;&gt;取消报名&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#007FFF;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2910" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="2450" y="926" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-HxedoFoJFOzmZ5ooVSD-6" value="&lt;font style=&quot;font-size: 24px&quot;&gt;活动举行&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1210" y="1590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-HxedoFoJFOzmZ5ooVSD-7" value="&lt;font size=&quot;4&quot;&gt;展示信息（二维码）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1470" y="1620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-HxedoFoJFOzmZ5ooVSD-9" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=24;strokeColor=default;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2230" y="958.57" as="sourcePoint" />
+            <mxPoint x="2420" y="958.57" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HxedoFoJFOzmZ5ooVSD-11" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 18px ; font-style: normal ; font-weight: normal ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; text-decoration: none ; display: inline ; float: none&quot;&gt;&lt;div&gt;我觉得还是尽量让多的人去使用小程序/app，包括会员和非会员，对于我们连心来说，只要是连心的用户都可以使用活动报名的功能，网页报名，个人建议应该是弱化甚至移除掉的，把用户更多的推到app的使用上。至于是否只有会员可参加报名活动，或者只有会员才可以替别人报名活动，选择权应该交到活动举办方（社团管理员）手上，因为目前我们已经可以做到（或者准备做）让管理员设置活动是否仅会员可见、以及活动是否只会员可参加，具体来说，在这种情况下：&lt;/div&gt;&lt;div&gt;1、如果管理员希望仅会员可参加活动-打开仅会员可参加活动的开关：&lt;/div&gt;&lt;div&gt;（1）会员点击自己报名：“报名信息提交成功”&lt;/div&gt;&lt;div&gt;（2）会员点击替他人报名：如果填写的他人信息是会员，“报名信息提交成功”；如果填写的他人信息不是会员，“本活动仅会员可参加”&lt;/div&gt;&lt;div&gt;（3）非会员点击自己报名：“本活动仅会员可参加，是否注册成为会员”&lt;/div&gt;&lt;div&gt;（4）非会员点击替他人报名：同1（2）&lt;/div&gt;&lt;div&gt;2、如果管理员希望这个活动是熟悉的人参加-打开仅会员可见的权限开关：&lt;/div&gt;&lt;div&gt;这种情况，只有会员可以点击自己报名和替他人报名，需要额外区分的是替他人报名，如果管理员只想让会员参加，提示同1（2）；&lt;/div&gt;&lt;div&gt;如果管理员允许非会员参加，“报名信息提交成功”&lt;/div&gt;&lt;div&gt;3、在没有任何限制的情况下，自己报名和替他人报名没区别&lt;/div&gt;&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=0;fontSize=18;strokeWidth=3;fillColor=none;direction=west;align=left;position2=0.48;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1140" y="1060" width="590" height="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
