@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-19T07:13:18.587Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.0.0" etag="UUhl8l9GAScY1E-7OuxN" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-19T07:25:10.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.0.0" etag="VqwGc3wkS4X4HsrgnVG-" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1805" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1650" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -30,11 +30,11 @@
           <mxGeometry x="160" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WX159TqEyCOsGKeHhvjS-12" value="问题" style="swimlane;fontSize=15;gradientColor=none;opacity=0;fontStyle=1;labelBorderColor=none;labelBackgroundColor=#FF0000;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" collapsed="1">
-          <mxGeometry x="270" y="88.5" width="60" height="23" as="geometry">
-            <mxRectangle x="270" y="88.5" width="220" height="170" as="alternateBounds" />
+          <mxGeometry x="280" y="88.5" width="60" height="23" as="geometry">
+            <mxRectangle x="280" y="88.5" width="220" height="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WX159TqEyCOsGKeHhvjS-13" value="1. 编辑项重新设计&lt;br&gt;（1）活动基本信息&lt;br&gt;（2）报名填报信息&lt;br&gt;（3）活动限制条件&lt;br&gt;&lt;br&gt;2. 编辑排版重新设计：&lt;br&gt;（1）增加封面图、增加排版&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;gradientColor=none;opacity=0;align=left;verticalAlign=top;" parent="WX159TqEyCOsGKeHhvjS-12" vertex="1">
+        <mxCell id="WX159TqEyCOsGKeHhvjS-13" value="1. 编辑项重新设计&lt;b&gt;【见详细流程图】&lt;/b&gt;&lt;br&gt;（1）活动基本信息&lt;br&gt;（2）报名填报信息&lt;br&gt;（3）活动限制条件&lt;br&gt;&lt;br&gt;2. 编辑排版重新设计&lt;b&gt;【见蓝湖】&lt;/b&gt;&lt;br&gt;（1）增加封面图、增加排版&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;gradientColor=none;opacity=0;align=left;verticalAlign=top;" parent="WX159TqEyCOsGKeHhvjS-12" vertex="1">
           <mxGeometry x="20" y="30" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="WX159TqEyCOsGKeHhvjS-14" value="活动筛选" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;glass=0;strokeWidth=1;shadow=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -310,16 +310,24 @@
             <mxRectangle x="640" y="208.5" width="220" height="191.5" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n0-gr-YXGU3YrfHo3i9w-2" value="1. 是否增加非会员在小程序报名活动&lt;br&gt;&lt;br&gt;2. 此处分为为自己报名、为他人报名，为他人报名的情况需要以短讯的方式通知他人，小程序使用者在个人中心收到通知。&lt;br&gt;&lt;br&gt;3. 会员、非会员报名逻辑整理&lt;b&gt;详见详细流程图。&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;gradientColor=none;opacity=0;align=left;verticalAlign=top;fontColor=#000000;" parent="n0-gr-YXGU3YrfHo3i9w-1" vertex="1">
+        <mxCell id="n0-gr-YXGU3YrfHo3i9w-2" value="1. 是否增加非会员在小程序报名活动&lt;br&gt;&lt;br&gt;2. 此处分为为自己报名、为他人报名，为他人报名的情况需要以短讯的方式通知他人，小程序使用者在个人中心收到通知。&lt;br&gt;&lt;br&gt;3. 会员、非会员报名逻辑整理&lt;b&gt;【见详细流程图】。&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;gradientColor=none;opacity=0;align=left;verticalAlign=top;fontColor=#000000;" parent="n0-gr-YXGU3YrfHo3i9w-1" vertex="1">
           <mxGeometry x="20" y="30" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="n0-gr-YXGU3YrfHo3i9w-5" value="问题" style="swimlane;fontSize=15;gradientColor=none;opacity=0;fontStyle=1;labelBorderColor=none;labelBackgroundColor=#FF0000;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" collapsed="1">
-          <mxGeometry x="330" y="530" width="60" height="23" as="geometry">
-            <mxRectangle x="330" y="530" width="220" height="191.5" as="alternateBounds" />
+          <mxGeometry x="320" y="530" width="60" height="23" as="geometry">
+            <mxRectangle x="320" y="530" width="200" height="191.5" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n0-gr-YXGU3YrfHo3i9w-6" value="1. 是否增加非会员在小程序报名活动&lt;br&gt;&lt;br&gt;2. 此处分为为自己报名、为他人报名，为他人报名的情况需要以短讯的方式通知他人，小程序使用者在个人中心收到通知。&lt;br&gt;&lt;br&gt;3. 会员、非会员报名逻辑整理详见详细流程图。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;gradientColor=none;opacity=0;align=left;verticalAlign=top;" parent="n0-gr-YXGU3YrfHo3i9w-5" vertex="1">
-          <mxGeometry x="20" y="30" width="180" height="110" as="geometry" />
+        <mxCell id="n0-gr-YXGU3YrfHo3i9w-6" value="1. 报名列表建议加入是否为会员、通过什么方式报名。未以“为自己报名”方式的会员，可用短讯通知审核结果。&lt;br&gt;2.&amp;nbsp;短讯通知应开放给未使用小程序的非会员。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;gradientColor=none;opacity=0;align=left;verticalAlign=top;" parent="n0-gr-YXGU3YrfHo3i9w-5" vertex="1">
+          <mxGeometry x="10" y="20.75" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PyewcUp1_fF9FZebxI-6-1" value="问题" style="swimlane;fontSize=15;gradientColor=none;opacity=0;fontStyle=1;labelBorderColor=none;labelBackgroundColor=#FF0000;fontColor=#000000;" vertex="1" collapsed="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="320" width="60" height="23" as="geometry">
+            <mxRectangle x="270" y="320" width="100" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PyewcUp1_fF9FZebxI-6-2" value="1. 报名列表包括通过各种方式报名的人员。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;gradientColor=none;opacity=0;align=left;verticalAlign=top;" vertex="1" parent="PyewcUp1_fF9FZebxI-6-1">
+          <mxGeometry x="10" y="20.75" width="70" height="49.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
