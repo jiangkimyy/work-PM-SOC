@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-19T07:25:10.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.0.0" etag="VqwGc3wkS4X4HsrgnVG-" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-19T07:27:13.692Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.0.0" etag="WAIEqBQetGUy_KQxq_lp" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1650" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -328,6 +328,14 @@
         </mxCell>
         <mxCell id="PyewcUp1_fF9FZebxI-6-2" value="1. 报名列表包括通过各种方式报名的人员。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;gradientColor=none;opacity=0;align=left;verticalAlign=top;" vertex="1" parent="PyewcUp1_fF9FZebxI-6-1">
           <mxGeometry x="10" y="20.75" width="70" height="49.25" as="geometry" />
+        </mxCell>
+        <mxCell id="PyewcUp1_fF9FZebxI-6-5" value="问题" style="swimlane;fontSize=15;gradientColor=none;opacity=0;fontStyle=1;labelBorderColor=none;labelBackgroundColor=#FF0000;fontColor=#000000;" vertex="1" collapsed="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="428.5" width="60" height="23" as="geometry">
+            <mxRectangle x="610" y="428.5" width="150" height="101.5" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PyewcUp1_fF9FZebxI-6-6" value="增加取消报名功能" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;gradientColor=none;opacity=0;align=left;verticalAlign=top;fontColor=#000000;" vertex="1" parent="PyewcUp1_fF9FZebxI-6-5">
+          <mxGeometry x="20" y="30" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
