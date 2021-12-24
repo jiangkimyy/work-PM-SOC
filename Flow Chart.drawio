@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T05:59:47.886Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="GpM2GLHKRMf0_9q3BjeT" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-24T06:03:38.646Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="D-4m7l_tJV_Av87NFtXa" version="16.0.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2282" dy="4525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2929" dy="4978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -373,7 +373,7 @@
           <mxGeometry x="20" y="30" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Q8CTjy8gL7TWKLckY6P0-9" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFF00;strokeWidth=10;shadow=1;perimeterSpacing=10;opacity=50;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-740" y="-2230" width="1580" height="1460" as="geometry" />
+          <mxGeometry x="-740" y="-2230" width="1500" height="1460" as="geometry" />
         </mxCell>
         <mxCell id="Q8CTjy8gL7TWKLckY6P0-13" value="等后台独立" style="swimlane;fontSize=15;opacity=0;fontStyle=1;labelBorderColor=none;labelBackgroundColor=#FFFF00;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" collapsed="1">
           <mxGeometry x="270" y="343" width="110" height="23" as="geometry">
@@ -541,16 +541,16 @@
           <mxGeometry x="-350" y="-1880" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3B7eSZ0378xvD8d0vk0m-110" value="问题" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#CC0000;strokeColor=none;" vertex="1" collapsed="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-180" y="-1881.5" width="60" height="23" as="geometry">
-            <mxRectangle x="-180" y="-1881.5" width="260" height="200" as="alternateBounds" />
+          <mxGeometry x="-180" y="-1880" width="60" height="23" as="geometry">
+            <mxRectangle x="-180" y="-1880" width="260" height="198.5" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3B7eSZ0378xvD8d0vk0m-112" value="&lt;ol&gt;&lt;li&gt;每个机构的注册项信息不同：目前方案是提供固定的注册项，供管理员选择。（“自定义栏位”功能是否开放）&lt;/li&gt;&lt;li&gt;会员簿的栏位结构应该同管理员配置的入会注册项&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;" vertex="1" parent="3B7eSZ0378xvD8d0vk0m-110">
+        <mxCell id="3B7eSZ0378xvD8d0vk0m-112" value="&lt;ol&gt;&lt;li&gt;每个机构的注册项信息不同：目前方案是提供固定的注册项，供管理员选择。（“自定义栏位”功能是否开放）&lt;/li&gt;&lt;li&gt;会员簿的栏位结构应该同管理员配置的入会注册项一致&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;" vertex="1" parent="3B7eSZ0378xvD8d0vk0m-110">
           <mxGeometry x="-2" y="30" width="262" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="3B7eSZ0378xvD8d0vk0m-113" value="问题" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#CC0000;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="375" y="-1890" width="260" height="200" as="geometry">
-            <mxRectangle x="375" y="-1890" width="60" height="23" as="alternateBounds" />
+        <mxCell id="3B7eSZ0378xvD8d0vk0m-113" value="问题" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#CC0000;strokeColor=none;" vertex="1" collapsed="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="375" y="-1890" width="60" height="23" as="geometry">
+            <mxRectangle x="375" y="-1890" width="260" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3B7eSZ0378xvD8d0vk0m-114" value="&lt;ol&gt;&lt;li&gt;目前只能够选择总会，属会是作为标签的概念，且在填写总会注册也信息时只能选择一个属会；&lt;/li&gt;&lt;li&gt;用户先选择要加入的社团/机构，弹出相应社团/机构的注册页面；&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;" vertex="1" parent="3B7eSZ0378xvD8d0vk0m-113">
@@ -633,6 +633,9 @@
         </mxCell>
         <mxCell id="3B7eSZ0378xvD8d0vk0m-123" value="&lt;ol&gt;&lt;li&gt;在登录进连心平台，会有填写个人信息的引导，该个人信息储存在平台的用户信息表，不属于任何社团&lt;/li&gt;&lt;li&gt;用户在申请注册某一社团，如果连心注册项和社团注册项有重合，自动填入&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;horizontal=1;" vertex="1" parent="3B7eSZ0378xvD8d0vk0m-122">
           <mxGeometry x="-2" y="30" width="262" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="3B7eSZ0378xvD8d0vk0m-172" value="登录账号" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;glass=0;strokeWidth=1;shadow=0;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-610" y="-2050" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
