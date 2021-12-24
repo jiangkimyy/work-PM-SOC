@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T04:31:55.415Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="XvwYyVKQLP4uVWopmKoA" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-24T04:39:25.027Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="k-ma39aHpvX6zQg3xnZw" version="16.0.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1878" dy="4243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1940" dy="4286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -548,12 +548,12 @@
         <mxCell id="3B7eSZ0378xvD8d0vk0m-112" value="&lt;ol&gt;&lt;li&gt;每个机构的注册项信息不同：目前方案是提供固定的注册项，供管理员选择。（“自定义栏位”功能是否开放）&lt;/li&gt;&lt;li&gt;会员簿的栏位结构应该同管理员配置的入会注册项&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;" vertex="1" parent="3B7eSZ0378xvD8d0vk0m-110">
           <mxGeometry x="-2" y="30" width="262" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="3B7eSZ0378xvD8d0vk0m-113" value="问题" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#CC0000;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="375" y="-1890" width="260" height="200" as="geometry">
-            <mxRectangle x="375" y="-1890" width="60" height="23" as="alternateBounds" />
+        <mxCell id="3B7eSZ0378xvD8d0vk0m-113" value="问题" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#CC0000;strokeColor=none;" vertex="1" collapsed="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="375" y="-1890" width="60" height="23" as="geometry">
+            <mxRectangle x="375" y="-1890" width="260" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3B7eSZ0378xvD8d0vk0m-114" value="&lt;ol&gt;&lt;li&gt;机构之间&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;" vertex="1" parent="3B7eSZ0378xvD8d0vk0m-113">
+        <mxCell id="3B7eSZ0378xvD8d0vk0m-114" value="&lt;ol&gt;&lt;li&gt;机构之间&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;" vertex="1" parent="3B7eSZ0378xvD8d0vk0m-113">
           <mxGeometry x="-2" y="30" width="262" height="130" as="geometry" />
         </mxCell>
         <mxCell id="3B7eSZ0378xvD8d0vk0m-116" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -625,6 +625,14 @@
         </mxCell>
         <mxCell id="3B7eSZ0378xvD8d0vk0m-121" value="&lt;h1&gt;结构B&lt;/h1&gt;&lt;p&gt;&lt;font size=&quot;5&quot;&gt;结构B的总属会结构关系，每一个团体（entity/实体）更加类似于“机构”的概念，“总属”关系更加偏向名义上的关系，实际上每个机构都是平等的，相互关联性和权限控制方面较结构A更弱。&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;fontSize=15;opacity=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="-2902" width="405" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="3B7eSZ0378xvD8d0vk0m-122" value="需求" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#FF8000;strokeColor=none;" vertex="1" collapsed="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="-2030" width="60" height="23" as="geometry">
+            <mxRectangle x="380" y="-2030" width="255" height="197" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3B7eSZ0378xvD8d0vk0m-123" value="&lt;ol&gt;&lt;li&gt;在登录进连心平台，会有填写个人信息的引导，该个人信息储存在平台的用户信息表，不属于任何社团&lt;/li&gt;&lt;li&gt;用户在申请注册某一社团，如果连心注册项和社团注册项有重合，自动填入&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;horizontal=1;" vertex="1" parent="3B7eSZ0378xvD8d0vk0m-122">
+          <mxGeometry x="-2" y="30" width="262" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
