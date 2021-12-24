@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T03:20:40.291Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="qSh53QoA3r5xKnsqlwGZ" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-24T03:24:23.351Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="yzKa-0WUQ_2sW39THQo2" version="16.0.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2404" dy="4610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -575,9 +575,18 @@
             <mxPoint x="314.6" y="-1810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3B7eSZ0378xvD8d0vk0m-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;entryX=0.4;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3B7eSZ0378xvD8d0vk0m-104" target="3B7eSZ0378xvD8d0vk0m-23">
+        <mxCell id="3B7eSZ0378xvD8d0vk0m-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;entryX=0.174;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3B7eSZ0378xvD8d0vk0m-104" target="3B7eSZ0378xvD8d0vk0m-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-100" y="-1860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3B7eSZ0378xvD8d0vk0m-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3B7eSZ0378xvD8d0vk0m-104">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-460" y="-1683" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-430" y="-1860" />
+              <mxPoint x="-430" y="-1683" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3B7eSZ0378xvD8d0vk0m-104" value="入会注册项配置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;glass=0;strokeWidth=1;shadow=0;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
