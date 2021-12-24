@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T05:54:09.275Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="KxDyQT-fqLhrLPtteLmY" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-24T05:59:47.886Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="GpM2GLHKRMf0_9q3BjeT" version="16.0.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2719" dy="4831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2282" dy="4525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -553,7 +553,7 @@
             <mxRectangle x="375" y="-1890" width="60" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3B7eSZ0378xvD8d0vk0m-114" value="&lt;ol&gt;&lt;li&gt;目前只能够选择总会，属会是作为标签的概念，且只能选择一个属会&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;" vertex="1" parent="3B7eSZ0378xvD8d0vk0m-113">
+        <mxCell id="3B7eSZ0378xvD8d0vk0m-114" value="&lt;ol&gt;&lt;li&gt;目前只能够选择总会，属会是作为标签的概念，且在填写总会注册也信息时只能选择一个属会；&lt;/li&gt;&lt;li&gt;用户先选择要加入的社团/机构，弹出相应社团/机构的注册页面；&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;" vertex="1" parent="3B7eSZ0378xvD8d0vk0m-113">
           <mxGeometry x="-2" y="30" width="262" height="130" as="geometry" />
         </mxCell>
         <mxCell id="3B7eSZ0378xvD8d0vk0m-116" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
