@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T03:51:05.913Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="2UevWWA4Zi5C18NapJ3g" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-29T04:03:45.104Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="0P_r583yuiu82BxY2P2v" version="16.0.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1437" dy="3934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2010" dy="4335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -649,7 +649,7 @@
         <mxCell id="So1NN85ygT-J7soTUWMl-1" value="&lt;font size=&quot;5&quot;&gt;&lt;b&gt;关于福利&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="880" y="-2300" width="300" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="So1NN85ygT-J7soTUWMl-241" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="So1NN85ygT-J7soTUWMl-241" value="" style="group;fillColor=none;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1590" y="-2710" width="605" height="1460" as="geometry" />
         </mxCell>
         <mxCell id="So1NN85ygT-J7soTUWMl-240" value="" style="group" vertex="1" connectable="0" parent="So1NN85ygT-J7soTUWMl-241">
@@ -850,14 +850,6 @@
         <mxCell id="So1NN85ygT-J7soTUWMl-255" value="领取福利" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;glass=0;strokeWidth=1;shadow=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="So1NN85ygT-J7soTUWMl-65">
           <mxGeometry x="64" y="914.8148148148148" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="So1NN85ygT-J7soTUWMl-471" value="" style="group" vertex="1" connectable="0" parent="So1NN85ygT-J7soTUWMl-65">
-          <mxGeometry x="-20" y="1019.81" width="102" height="59.440000000000055" as="geometry" />
-        </mxCell>
-        <mxCell id="So1NN85ygT-J7soTUWMl-477" value="问题" style="swimlane;fontColor=#CC0000;" vertex="1" parent="So1NN85ygT-J7soTUWMl-65">
-          <mxGeometry x="20" y="994.8148148148148" width="200" height="200" as="geometry">
-            <mxRectangle x="20" y="994.8148148148148" width="130" height="23" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="So1NN85ygT-J7soTUWMl-103" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="So1NN85ygT-J7soTUWMl-240">
           <mxGeometry x="215" width="120" height="54.074074074074076" as="geometry" />
         </mxCell>
@@ -1009,7 +1001,7 @@
         <mxCell id="So1NN85ygT-J7soTUWMl-247" value="派发方式" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;rounded=1;glass=0;strokeWidth=1;shadow=0;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1140" y="-1810" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="So1NN85ygT-J7soTUWMl-249" value="" style="whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;rounded=1;glass=0;strokeWidth=1;shadow=0;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="So1NN85ygT-J7soTUWMl-249" value="上架福利" style="whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;rounded=1;glass=0;strokeWidth=1;shadow=0;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1145" y="-1610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="So1NN85ygT-J7soTUWMl-251" value="手动领取" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -1021,12 +1013,12 @@
         <mxCell id="So1NN85ygT-J7soTUWMl-254" value="自动领取" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1070" y="-1790" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="So1NN85ygT-J7soTUWMl-2" value="问题" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#CC0000;strokeColor=none;" vertex="1" collapsed="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1250" y="-1901.5" width="60" height="23" as="geometry">
-            <mxRectangle x="1250" y="-1901.5" width="300" height="380" as="alternateBounds" />
+        <mxCell id="So1NN85ygT-J7soTUWMl-2" value="问题" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#CC0000;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1250" y="-1901.5" width="300" height="380" as="geometry">
+            <mxRectangle x="1250" y="-1901.5" width="60" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="So1NN85ygT-J7soTUWMl-3" value="&lt;ol&gt;&lt;li&gt;“领取机构数量”，是指最多派发数量，但是后台是以”按钮“形式展示，容易让人忽略&lt;/li&gt;&lt;li&gt;“手动领取”的福利，用户点击领取按钮之后，后台没有该用户的领取信息&lt;/li&gt;&lt;li&gt;“自动派发”方式领取的福利，用户领取成功之后，后台“实时库存”总的数量没有变化&lt;/li&gt;&lt;li&gt;“商品”“优惠券”“领用券”这三种类型均可展示，但是只有“领取券”才可以作为福利领取，其余两种均没有“领取”按钮&lt;/li&gt;&lt;li&gt;福利默认是仅会员可以领取，没有给管理员选择设置的空间，如果不是会员，会弹出注册成为会员的引导提示&lt;/li&gt;&lt;li&gt;一个用户如果是总会的会员而不是属会的会员，属会发布的福利，该用户也是可以领取的&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;" vertex="1" parent="So1NN85ygT-J7soTUWMl-2">
+        <mxCell id="So1NN85ygT-J7soTUWMl-3" value="&lt;ol&gt;&lt;li&gt;“领取机构数量”，是指最多派发数量，但是后台是以”按钮“形式展示，容易让人忽略&lt;/li&gt;&lt;li&gt;“手动领取”的福利，用户点击领取按钮之后，后台没有该用户的领取信息&lt;/li&gt;&lt;li&gt;“自动派发”方式领取的福利，用户领取成功之后，后台“实时库存”总的数量没有变化&lt;/li&gt;&lt;li&gt;“商品”“优惠券”“领用券”这三种类型均可展示，但是只有“领取券”才可以作为福利领取，其余两种均没有“领取”按钮&lt;/li&gt;&lt;li&gt;福利默认是仅会员可以领取，没有给管理员选择设置的空间，如果不是会员，会弹出注册成为会员的引导提示&lt;/li&gt;&lt;li&gt;一个用户如果是总会的会员而不是属会的会员，属会发布的福利，该用户也是可以领取的&lt;/li&gt;&lt;li&gt;福利领用券领取成功之后，该福利进入“我的福利”页面，该福利的标题为后台设置的副标题&lt;/li&gt;&lt;li&gt;“我的福利”点进去之后，“领取时间”只显示领取日期，没有显示领取时间&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;" vertex="1" parent="So1NN85ygT-J7soTUWMl-2">
           <mxGeometry x="-2" y="30" width="282" height="350" as="geometry" />
         </mxCell>
         <mxCell id="So1NN85ygT-J7soTUWMl-41" value="领用券（自动派发）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -1104,10 +1096,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="So1NN85ygT-J7soTUWMl-476" value="" style="group;rotation=270;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1480" y="-1620.0048148148148" width="143" height="130" as="geometry" />
+          <mxGeometry x="1427" y="-1620.0048148148148" width="174" height="130" as="geometry" />
         </mxCell>
         <mxCell id="So1NN85ygT-J7soTUWMl-474" value="" style="group;rotation=-360;" vertex="1" connectable="0" parent="So1NN85ygT-J7soTUWMl-476">
-          <mxGeometry y="16" width="133" height="113.99518518518516" as="geometry" />
+          <mxGeometry y="16" width="174" height="113.99518518518516" as="geometry" />
         </mxCell>
         <mxCell id="So1NN85ygT-J7soTUWMl-468" value="领取时间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-360;" vertex="1" parent="So1NN85ygT-J7soTUWMl-474">
           <mxGeometry x="36" y="52" width="96" height="30" as="geometry" />
@@ -1127,14 +1119,19 @@
         <mxCell id="So1NN85ygT-J7soTUWMl-261" value="" style="line;strokeWidth=2;html=1;fontColor=#CC0000;rotation=-360;" vertex="1" parent="So1NN85ygT-J7soTUWMl-473">
           <mxGeometry x="26" y="27" width="26" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="So1NN85ygT-J7soTUWMl-479" value="问题" style="swimlane;labelBackgroundColor=none;fontColor=#CC0000;fillColor=none;" vertex="1" collapsed="1" parent="So1NN85ygT-J7soTUWMl-474">
+          <mxGeometry x="114" y="24.44481481481489" width="60" height="23" as="geometry">
+            <mxRectangle x="1220" y="-1460" width="210" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="So1NN85ygT-J7soTUWMl-485" value="&lt;ol&gt;&lt;li&gt;&lt;font&gt;选择当天日期领取福利，会提示“该领取日期已过期”，但是后台设置的线下领用日期和线下领用时间，还有当天下午领取的时间选项&lt;/font&gt;&lt;br style=&quot;&quot;&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="So1NN85ygT-J7soTUWMl-479">
+          <mxGeometry y="20" width="190" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="So1NN85ygT-J7soTUWMl-466" value="领取日期" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-360;" vertex="1" parent="So1NN85ygT-J7soTUWMl-476">
           <mxGeometry x="39" y="35" width="91" height="28.44" as="geometry" />
         </mxCell>
         <mxCell id="So1NN85ygT-J7soTUWMl-259" value="福利领取机构" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-360;" vertex="1" parent="So1NN85ygT-J7soTUWMl-476">
           <mxGeometry x="47" width="96" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="So1NN85ygT-J7soTUWMl-478" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span&gt;1、选择当天日期领取福利，会提示“该领取日期已过期”，但是后台设置的线下领用日期和线下领用时间，还有当天下午领取的时间选项&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1630" y="-1550" width="157" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
