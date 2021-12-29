@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T04:47:48.953Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="XsVCkTSGEET3ZaUxE7tL" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-29T04:54:56.967Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="aATzE12hRLPkiuxyFRWi" version="16.0.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2282" dy="5694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -650,13 +650,13 @@
           <mxGeometry x="880" y="-2300" width="300" height="50" as="geometry" />
         </mxCell>
         <mxCell id="So1NN85ygT-J7soTUWMl-241" value="" style="group;fillColor=none;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1642" y="-3570" width="645" height="1460" as="geometry" />
+          <mxGeometry x="1654" y="-4080" width="645" height="1609.9951851851852" as="geometry" />
         </mxCell>
         <mxCell id="So1NN85ygT-J7soTUWMl-240" value="" style="group" vertex="1" connectable="0" parent="So1NN85ygT-J7soTUWMl-241">
-          <mxGeometry width="645" height="1460" as="geometry" />
+          <mxGeometry width="645" height="1609.9951851851852" as="geometry" />
         </mxCell>
         <mxCell id="So1NN85ygT-J7soTUWMl-65" value="" style="group" vertex="1" connectable="0" parent="So1NN85ygT-J7soTUWMl-240">
-          <mxGeometry y="135.1851851851852" width="645" height="1324.8148148148148" as="geometry" />
+          <mxGeometry y="135.1851851851852" width="645" height="1474.81" as="geometry" />
         </mxCell>
         <mxCell id="So1NN85ygT-J7soTUWMl-8" value="福利商城&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="So1NN85ygT-J7soTUWMl-65">
           <mxGeometry y="6.52618135376756" width="120" height="39.157088122605366" as="geometry" />
@@ -1124,49 +1124,11 @@
             <mxPoint x="1671" y="-1915.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="So1NN85ygT-J7soTUWMl-256" value="填写领取信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;glass=0;strokeWidth=1;shadow=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1787" y="-1935" width="122" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="So1NN85ygT-J7soTUWMl-257" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#CC0000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="So1NN85ygT-J7soTUWMl-255" target="So1NN85ygT-J7soTUWMl-256">
+        <mxCell id="So1NN85ygT-J7soTUWMl-511" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="So1NN85ygT-J7soTUWMl-256" target="So1NN85ygT-J7soTUWMl-510">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="So1NN85ygT-J7soTUWMl-476" value="" style="group;rotation=270;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1847" y="-2090.004814814815" width="174" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="So1NN85ygT-J7soTUWMl-474" value="" style="group;rotation=-360;" vertex="1" connectable="0" parent="So1NN85ygT-J7soTUWMl-476">
-          <mxGeometry y="16" width="174" height="113.99518518518516" as="geometry" />
-        </mxCell>
-        <mxCell id="So1NN85ygT-J7soTUWMl-468" value="领取时间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-360;" vertex="1" parent="So1NN85ygT-J7soTUWMl-474">
-          <mxGeometry x="36" y="52" width="96" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="So1NN85ygT-J7soTUWMl-470" value="领取数量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-360;" vertex="1" parent="So1NN85ygT-J7soTUWMl-474">
-          <mxGeometry x="37" y="84" width="96" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="So1NN85ygT-J7soTUWMl-473" value="" style="group;rotation=-360;" vertex="1" connectable="0" parent="So1NN85ygT-J7soTUWMl-474">
-          <mxGeometry width="52" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="So1NN85ygT-J7soTUWMl-258" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontColor=#CC0000;rotation=-360;" vertex="1" parent="So1NN85ygT-J7soTUWMl-473">
-          <mxGeometry width="50" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="So1NN85ygT-J7soTUWMl-467" value="" style="line;strokeWidth=2;html=1;fontColor=#CC0000;rotation=-360;" vertex="1" parent="So1NN85ygT-J7soTUWMl-473">
-          <mxGeometry x="26" y="64" width="26" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="So1NN85ygT-J7soTUWMl-261" value="" style="line;strokeWidth=2;html=1;fontColor=#CC0000;rotation=-360;" vertex="1" parent="So1NN85ygT-J7soTUWMl-473">
-          <mxGeometry x="26" y="27" width="26" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="So1NN85ygT-J7soTUWMl-479" value="问题" style="swimlane;labelBackgroundColor=none;fontColor=#CC0000;fillColor=none;" vertex="1" collapsed="1" parent="So1NN85ygT-J7soTUWMl-474">
-          <mxGeometry x="114" y="24.44481481481489" width="60" height="23" as="geometry">
-            <mxRectangle x="1220" y="-1460" width="210" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="So1NN85ygT-J7soTUWMl-485" value="&lt;ol&gt;&lt;li&gt;&lt;font&gt;选择当天日期领取福利，会提示“该领取日期已过期”，但是后台设置的线下领用日期和线下领用时间，还有当天下午领取的时间选项&lt;/font&gt;&lt;br style=&quot;&quot;&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="So1NN85ygT-J7soTUWMl-479">
-          <mxGeometry y="20" width="190" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="So1NN85ygT-J7soTUWMl-466" value="领取日期" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-360;" vertex="1" parent="So1NN85ygT-J7soTUWMl-476">
-          <mxGeometry x="39" y="35" width="91" height="28.44" as="geometry" />
-        </mxCell>
-        <mxCell id="So1NN85ygT-J7soTUWMl-259" value="福利领取机构" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-360;" vertex="1" parent="So1NN85ygT-J7soTUWMl-476">
-          <mxGeometry x="47" width="96" height="30" as="geometry" />
+        <mxCell id="So1NN85ygT-J7soTUWMl-256" value="填写预约信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;glass=0;strokeWidth=1;shadow=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1787" y="-1935" width="122" height="40" as="geometry" />
         </mxCell>
         <mxCell id="So1NN85ygT-J7soTUWMl-501" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
@@ -1180,8 +1142,11 @@
         <mxCell id="So1NN85ygT-J7soTUWMl-490" value="会员&lt;span style=&quot;white-space: pre&quot;&gt;去现场&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1687" y="-1940" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="So1NN85ygT-J7soTUWMl-513" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="So1NN85ygT-J7soTUWMl-255" target="So1NN85ygT-J7soTUWMl-512">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="So1NN85ygT-J7soTUWMl-255" value="领取福利" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;glass=0;strokeWidth=1;shadow=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1997" y="-1935" width="120" height="40" as="geometry" />
+          <mxGeometry x="2190" y="-1936" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="So1NN85ygT-J7soTUWMl-493" value="工作人员查看福利详情" style="rounded=1;whiteSpace=wrap;html=1;pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1701" y="-1835" width="120" height="60" as="geometry" />
@@ -1240,7 +1205,65 @@
           <mxGeometry x="1555" y="-1727" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="So1NN85ygT-J7soTUWMl-509" value="取消" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1410" y="-1857" width="60" height="30" as="geometry" />
+          <mxGeometry x="1398" y="-1869" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="So1NN85ygT-J7soTUWMl-516" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1909" y="-2034.0000000000005" as="sourcePoint" />
+            <mxPoint x="2240" y="-1935" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1909" y="-2040" />
+              <mxPoint x="2240" y="-2040" />
+              <mxPoint x="2240" y="-1934" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="So1NN85ygT-J7soTUWMl-510" value="取消领取" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;glass=0;strokeWidth=1;shadow=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1787" y="-2055" width="122" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="So1NN85ygT-J7soTUWMl-514" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="So1NN85ygT-J7soTUWMl-512" target="So1NN85ygT-J7soTUWMl-256">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="So1NN85ygT-J7soTUWMl-512" value="预约福利" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;glass=0;strokeWidth=1;shadow=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1990" y="-1936" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="So1NN85ygT-J7soTUWMl-476" value="" style="group;rotation=270;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2020" y="-1880.0048148148148" width="174" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="So1NN85ygT-J7soTUWMl-474" value="" style="group;rotation=-360;" vertex="1" connectable="0" parent="So1NN85ygT-J7soTUWMl-476">
+          <mxGeometry y="16" width="174" height="113.99518518518516" as="geometry" />
+        </mxCell>
+        <mxCell id="So1NN85ygT-J7soTUWMl-468" value="领取时间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-360;" vertex="1" parent="So1NN85ygT-J7soTUWMl-474">
+          <mxGeometry x="36" y="52" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="So1NN85ygT-J7soTUWMl-470" value="领取数量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-360;" vertex="1" parent="So1NN85ygT-J7soTUWMl-474">
+          <mxGeometry x="37" y="84" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="So1NN85ygT-J7soTUWMl-473" value="" style="group;rotation=-360;" vertex="1" connectable="0" parent="So1NN85ygT-J7soTUWMl-474">
+          <mxGeometry width="52" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="So1NN85ygT-J7soTUWMl-258" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontColor=#CC0000;rotation=-360;" vertex="1" parent="So1NN85ygT-J7soTUWMl-473">
+          <mxGeometry width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="So1NN85ygT-J7soTUWMl-467" value="" style="line;strokeWidth=2;html=1;fontColor=#CC0000;rotation=-360;" vertex="1" parent="So1NN85ygT-J7soTUWMl-473">
+          <mxGeometry x="26" y="64" width="26" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="So1NN85ygT-J7soTUWMl-261" value="" style="line;strokeWidth=2;html=1;fontColor=#CC0000;rotation=-360;" vertex="1" parent="So1NN85ygT-J7soTUWMl-473">
+          <mxGeometry x="26" y="27" width="26" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="So1NN85ygT-J7soTUWMl-479" value="问题" style="swimlane;labelBackgroundColor=none;fontColor=#CC0000;fillColor=none;" vertex="1" collapsed="1" parent="So1NN85ygT-J7soTUWMl-474">
+          <mxGeometry x="114" y="24.44481481481489" width="60" height="23" as="geometry">
+            <mxRectangle x="1220" y="-1460" width="210" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="So1NN85ygT-J7soTUWMl-485" value="&lt;ol&gt;&lt;li&gt;&lt;font&gt;选择当天日期领取福利，会提示“该领取日期已过期”，但是后台设置的线下领用日期和线下领用时间，还有当天下午领取的时间选项&lt;/font&gt;&lt;br style=&quot;&quot;&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="So1NN85ygT-J7soTUWMl-479">
+          <mxGeometry y="20" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="So1NN85ygT-J7soTUWMl-466" value="领取日期" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-360;" vertex="1" parent="So1NN85ygT-J7soTUWMl-476">
+          <mxGeometry x="39" y="36" width="91" height="28.44" as="geometry" />
+        </mxCell>
+        <mxCell id="So1NN85ygT-J7soTUWMl-259" value="福利领取机构" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-360;" vertex="1" parent="So1NN85ygT-J7soTUWMl-476">
+          <mxGeometry x="47" y="1" width="96" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
