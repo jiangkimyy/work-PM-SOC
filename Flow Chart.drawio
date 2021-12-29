@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T04:03:45.104Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="0P_r583yuiu82BxY2P2v" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-29T04:03:58.458Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="CiX9voCdRIRYQakXU8pA" version="16.0.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2010" dy="4335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1014,12 +1014,12 @@
           <mxGeometry x="1070" y="-1790" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="So1NN85ygT-J7soTUWMl-2" value="问题" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#CC0000;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1250" y="-1901.5" width="300" height="380" as="geometry">
+          <mxGeometry x="1250" y="-1901.5" width="300" height="500" as="geometry">
             <mxRectangle x="1250" y="-1901.5" width="60" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="So1NN85ygT-J7soTUWMl-3" value="&lt;ol&gt;&lt;li&gt;“领取机构数量”，是指最多派发数量，但是后台是以”按钮“形式展示，容易让人忽略&lt;/li&gt;&lt;li&gt;“手动领取”的福利，用户点击领取按钮之后，后台没有该用户的领取信息&lt;/li&gt;&lt;li&gt;“自动派发”方式领取的福利，用户领取成功之后，后台“实时库存”总的数量没有变化&lt;/li&gt;&lt;li&gt;“商品”“优惠券”“领用券”这三种类型均可展示，但是只有“领取券”才可以作为福利领取，其余两种均没有“领取”按钮&lt;/li&gt;&lt;li&gt;福利默认是仅会员可以领取，没有给管理员选择设置的空间，如果不是会员，会弹出注册成为会员的引导提示&lt;/li&gt;&lt;li&gt;一个用户如果是总会的会员而不是属会的会员，属会发布的福利，该用户也是可以领取的&lt;/li&gt;&lt;li&gt;福利领用券领取成功之后，该福利进入“我的福利”页面，该福利的标题为后台设置的副标题&lt;/li&gt;&lt;li&gt;“我的福利”点进去之后，“领取时间”只显示领取日期，没有显示领取时间&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;" vertex="1" parent="So1NN85ygT-J7soTUWMl-2">
-          <mxGeometry x="-2" y="30" width="282" height="350" as="geometry" />
+          <mxGeometry x="-2" y="30" width="282" height="470" as="geometry" />
         </mxCell>
         <mxCell id="So1NN85ygT-J7soTUWMl-41" value="领用券（自动派发）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2195" y="-2570.0000893997444" width="200" height="395.38186462324376" as="geometry">
