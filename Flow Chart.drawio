@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T05:02:02.741Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="f--SWBaoKVKnMdvlhdQ1" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-29T05:30:35.717Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="GoxkfXxSKilSt6xWi1f5" version="16.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1747" dy="5238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1279,12 +1279,20 @@
         <mxCell id="Xpi-BFBNgAl1asUub1Id-12" value="&lt;div&gt;后台管理评论、删除评论&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;horizontal=1;" vertex="1" parent="Xpi-BFBNgAl1asUub1Id-11">
           <mxGeometry x="-2" y="30" width="262" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Xpi-BFBNgAl1asUub1Id-14" value="需求(1)" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#FF8000;strokeColor=none;startSize=23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="-190" width="255" height="197" as="geometry">
+        <mxCell id="Xpi-BFBNgAl1asUub1Id-14" value="需求(2)" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#FF8000;strokeColor=none;startSize=23;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="-190" width="480" height="197" as="geometry">
             <mxRectangle x="450" y="-190" width="60" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xpi-BFBNgAl1asUub1Id-15" value="&lt;div&gt;15. 活动可见分类&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;horizontal=1;" vertex="1" parent="Xpi-BFBNgAl1asUub1Id-14">
+        <mxCell id="Xpi-BFBNgAl1asUub1Id-15" value="&lt;div&gt;15. 活动可见分类&lt;/div&gt;&lt;div&gt;20. 活动编号（总属会共有活动关联）&lt;/div&gt;&lt;div&gt;22. 编辑内容单调，摆位布局不方便&lt;/div&gt;&lt;div&gt;28. 增加自定义栏位给报名填写信息&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;horizontal=1;" vertex="1" parent="Xpi-BFBNgAl1asUub1Id-14">
+          <mxGeometry x="-2" y="30" width="302" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpi-BFBNgAl1asUub1Id-16" value="需求(1)" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#FF8000;strokeColor=none;startSize=23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="-70" width="255" height="197" as="geometry">
+            <mxRectangle x="450" y="-70" width="60" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xpi-BFBNgAl1asUub1Id-17" value="&lt;div&gt;&lt;span&gt;22. 预览编辑内容&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;horizontal=1;" vertex="1" parent="Xpi-BFBNgAl1asUub1Id-16">
           <mxGeometry x="-2" y="30" width="262" height="130" as="geometry" />
         </mxCell>
       </root>
