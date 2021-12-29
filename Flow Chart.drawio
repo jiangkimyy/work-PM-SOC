@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T05:30:35.717Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="GoxkfXxSKilSt6xWi1f5" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-29T06:00:47.303Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="UmAPNLEQscSVSJQBs9dW" version="16.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1747" dy="5238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="Q8CTjy8gL7TWKLckY6P0-8" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFF00;strokeWidth=10;shadow=1;perimeterSpacing=10;opacity=50;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-200" y="-247.5" width="2500" height="1471" as="geometry" />
+          <mxGeometry x="-240" y="-247.5" width="2500" height="1471" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="添加活动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;glass=0;strokeWidth=1;shadow=0;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="-190" width="120" height="40" as="geometry" />
@@ -18,9 +18,9 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="发布活动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="-90" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WX159TqEyCOsGKeHhvjS-12" value="问题" style="swimlane;fontSize=15;gradientColor=none;opacity=0;fontStyle=1;labelBorderColor=none;labelBackgroundColor=#FF0000;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="92.5" y="-200" width="220" height="170" as="geometry">
-            <mxRectangle x="440" y="-190" width="70" height="23" as="alternateBounds" />
+        <mxCell id="WX159TqEyCOsGKeHhvjS-12" value="方案" style="swimlane;fontSize=15;gradientColor=none;opacity=0;fontStyle=1;labelBorderColor=none;labelBackgroundColor=#66B2FF;fontColor=#000000;startSize=23;align=left;spacingLeft=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" collapsed="1">
+          <mxGeometry x="520" y="-190" width="70" height="23" as="geometry">
+            <mxRectangle x="92.5" y="-200" width="220" height="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WX159TqEyCOsGKeHhvjS-13" value="1. 编辑项重新设计&lt;b&gt;【见详细流程图】&lt;/b&gt;&lt;br&gt;（1）活动基本信息&lt;br&gt;（2）报名填报信息&lt;br&gt;（3）活动限制条件&lt;br&gt;&lt;br&gt;2. 编辑排版重新设计&lt;b&gt;【见蓝湖】&lt;/b&gt;&lt;br&gt;（1）增加封面图、增加排版&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;gradientColor=none;opacity=0;align=left;verticalAlign=top;" parent="WX159TqEyCOsGKeHhvjS-12" vertex="1">
@@ -67,9 +67,6 @@
         </mxCell>
         <mxCell id="WX159TqEyCOsGKeHhvjS-33" value="审核结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;strokeWidth=1;shadow=0;fontStyle=1;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="750" y="592" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WX159TqEyCOsGKeHhvjS-44" value="通知（个人中心/&lt;br&gt;短讯通知他人）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;opacity=0;fontStyle=1;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="540" y="626" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WX159TqEyCOsGKeHhvjS-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;fillColor=#fff2cc;strokeColor=#d6b656;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WX159TqEyCOsGKeHhvjS-67" target="WX159TqEyCOsGKeHhvjS-49" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -191,7 +188,7 @@
           <mxGeometry x="20" y="30" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Q8CTjy8gL7TWKLckY6P0-0" value="等后台独立" style="swimlane;fontSize=15;opacity=0;fontStyle=1;labelBorderColor=none;labelBackgroundColor=#FFFF00;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" collapsed="1">
-          <mxGeometry x="440" y="-167" width="110" height="23" as="geometry">
+          <mxGeometry x="450" y="-167" width="110" height="23" as="geometry">
             <mxRectangle x="280" y="88.5" width="220" height="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -634,9 +631,9 @@
             <mxPoint x="1010" y="739.33" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CLERFuuJvT8i6gnzWTEx-65" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CLERFuuJvT8i6gnzWTEx-48" target="WX159TqEyCOsGKeHhvjS-33" edge="1">
+        <mxCell id="CLERFuuJvT8i6gnzWTEx-65" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CLERFuuJvT8i6gnzWTEx-48" target="WX159TqEyCOsGKeHhvjS-33" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="650" as="sourcePoint" />
+            <mxPoint x="655" y="661.5" as="sourcePoint" />
             <mxPoint x="390" y="379.8199999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1279,21 +1276,104 @@
         <mxCell id="Xpi-BFBNgAl1asUub1Id-12" value="&lt;div&gt;后台管理评论、删除评论&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;horizontal=1;" vertex="1" parent="Xpi-BFBNgAl1asUub1Id-11">
           <mxGeometry x="-2" y="30" width="262" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Xpi-BFBNgAl1asUub1Id-14" value="需求(2)" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#FF8000;strokeColor=none;startSize=23;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="-190" width="480" height="197" as="geometry">
-            <mxRectangle x="450" y="-190" width="60" height="23" as="alternateBounds" />
+        <mxCell id="Xpi-BFBNgAl1asUub1Id-14" value="需求(8)" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#FF8000;strokeColor=none;startSize=23;align=left;spacingLeft=14;" vertex="1" collapsed="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="-190" width="60" height="23" as="geometry">
+            <mxRectangle x="450" y="-190" width="480" height="197" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xpi-BFBNgAl1asUub1Id-15" value="&lt;div&gt;15. 活动可见分类&lt;/div&gt;&lt;div&gt;20. 活动编号（总属会共有活动关联）&lt;/div&gt;&lt;div&gt;22. 编辑内容单调，摆位布局不方便&lt;/div&gt;&lt;div&gt;28. 增加自定义栏位给报名填写信息&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;horizontal=1;" vertex="1" parent="Xpi-BFBNgAl1asUub1Id-14">
-          <mxGeometry x="-2" y="30" width="302" height="130" as="geometry" />
+        <mxCell id="Xpi-BFBNgAl1asUub1Id-15" value="&lt;div&gt;15、56. 活动可见分类&lt;/div&gt;&lt;div&gt;20. 活动编号（总属会共有活动关联）&lt;/div&gt;&lt;div&gt;22. 编辑内容单调，摆位布局不方便&lt;/div&gt;&lt;div&gt;28. 增加自定义栏位给报名填写信息；58.抽签功能&lt;/div&gt;&lt;div&gt;29、70. 网页报名显示项需修改&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;horizontal=1;" vertex="1" parent="Xpi-BFBNgAl1asUub1Id-14">
+          <mxGeometry x="-2" y="30" width="452" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Xpi-BFBNgAl1asUub1Id-16" value="需求(1)" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#FF8000;strokeColor=none;startSize=23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="-70" width="255" height="197" as="geometry">
-            <mxRectangle x="450" y="-70" width="60" height="23" as="alternateBounds" />
+        <mxCell id="Xpi-BFBNgAl1asUub1Id-16" value="需求(1)" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#FF8000;strokeColor=none;startSize=23;align=left;verticalAlign=middle;spacingLeft=14;" vertex="1" collapsed="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="-70" width="60" height="23" as="geometry">
+            <mxRectangle x="450" y="-70" width="170" height="90" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xpi-BFBNgAl1asUub1Id-17" value="&lt;div&gt;&lt;span&gt;22. 预览编辑内容&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;horizontal=1;" vertex="1" parent="Xpi-BFBNgAl1asUub1Id-16">
           <mxGeometry x="-2" y="30" width="262" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpi-BFBNgAl1asUub1Id-20" value="需求(1)" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#FF8000;strokeColor=none;startSize=23;align=left;verticalAlign=middle;spacingLeft=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="965" y="156" width="255" height="197" as="geometry">
+            <mxRectangle x="965" y="156" width="60" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xpi-BFBNgAl1asUub1Id-21" value="&lt;div&gt;34. 后台需要获取为他人报名的帮报名人员的资料&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;horizontal=1;" vertex="1" parent="Xpi-BFBNgAl1asUub1Id-20">
+          <mxGeometry x="-2" y="30" width="262" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpi-BFBNgAl1asUub1Id-22" value="需求(1)" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#FF8000;strokeColor=none;startSize=23;align=left;verticalAlign=middle;spacingLeft=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="827.5" y="513" width="437.5" height="336" as="geometry">
+            <mxRectangle x="827.5" y="513" width="60" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xpi-BFBNgAl1asUub1Id-23" value="&lt;div&gt;39&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;horizontal=1;" vertex="1" parent="Xpi-BFBNgAl1asUub1Id-22">
+          <mxGeometry x="-2" y="30" width="262" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpi-BFBNgAl1asUub1Id-26" value="需求(1)" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#FF8000;strokeColor=none;startSize=23;align=left;verticalAlign=middle;spacingLeft=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="890" width="430" height="197" as="geometry">
+            <mxRectangle x="430" y="890" width="60" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xpi-BFBNgAl1asUub1Id-27" value="&lt;div&gt;53. 收据排版需求，增加签名栏&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;horizontal=1;" vertex="1" parent="Xpi-BFBNgAl1asUub1Id-26">
+          <mxGeometry x="-2" y="30" width="262" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpi-BFBNgAl1asUub1Id-31" value="需求(1)" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#FF8000;strokeColor=none;startSize=23;align=left;verticalAlign=middle;spacingLeft=14;" vertex="1" parent="Xpi-BFBNgAl1asUub1Id-26">
+          <mxGeometry x="5" y="-130" width="425" height="197" as="geometry">
+            <mxRectangle x="535" y="660" width="60" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xpi-BFBNgAl1asUub1Id-32" value="&lt;div&gt;68. 需要整理出来&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;horizontal=1;" vertex="1" parent="Xpi-BFBNgAl1asUub1Id-31">
+          <mxGeometry x="-2" y="30" width="262" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpi-BFBNgAl1asUub1Id-34" value="需求(1)" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#FF8000;strokeColor=none;startSize=23;align=left;verticalAlign=middle;spacingLeft=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="433" y="401.5" width="260" height="197" as="geometry">
+            <mxRectangle x="535" y="660" width="60" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xpi-BFBNgAl1asUub1Id-35" value="&lt;div&gt;68. 需要整理出来&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;horizontal=1;" vertex="1" parent="Xpi-BFBNgAl1asUub1Id-34">
+          <mxGeometry x="-2" y="30" width="262" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpi-BFBNgAl1asUub1Id-36" value="需求(1)" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#FF8000;strokeColor=none;startSize=23;align=left;verticalAlign=middle;spacingLeft=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="570" width="110" height="120" as="geometry">
+            <mxRectangle x="535" y="660" width="60" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xpi-BFBNgAl1asUub1Id-37" value="&lt;div&gt;67.人工审核 or 自动审核&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;horizontal=1;" vertex="1" parent="Xpi-BFBNgAl1asUub1Id-36">
+          <mxGeometry x="-2" y="30" width="112" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WX159TqEyCOsGKeHhvjS-44" value="通知（个人中心/&lt;br&gt;短讯通知他人）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;opacity=0;fontStyle=1;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="570" y="572" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpi-BFBNgAl1asUub1Id-39" value="需求(1)" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#FF8000;strokeColor=none;startSize=23;align=left;verticalAlign=middle;spacingLeft=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="613" width="180" height="137" as="geometry">
+            <mxRectangle x="535" y="660" width="60" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xpi-BFBNgAl1asUub1Id-40" value="&lt;div&gt;50、63&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;horizontal=1;" vertex="1" parent="Xpi-BFBNgAl1asUub1Id-39">
+          <mxGeometry x="-2" y="30" width="122" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpi-BFBNgAl1asUub1Id-41" value="需求(1)" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#FF8000;strokeColor=none;startSize=23;align=left;verticalAlign=middle;spacingLeft=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="844" y="660" width="132" height="90" as="geometry">
+            <mxRectangle x="535" y="660" width="60" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xpi-BFBNgAl1asUub1Id-42" value="&lt;div&gt;71.活动即将开始提醒&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;horizontal=1;" vertex="1" parent="Xpi-BFBNgAl1asUub1Id-41">
+          <mxGeometry x="-2" y="30" width="162" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpi-BFBNgAl1asUub1Id-43" value="需求(1)" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#FF8000;strokeColor=none;startSize=23;align=left;verticalAlign=middle;spacingLeft=14;" vertex="1" collapsed="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="5" y="90" width="60" height="23" as="geometry">
+            <mxRectangle x="5" y="90" width="132" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xpi-BFBNgAl1asUub1Id-44" value="&lt;div&gt;&lt;span&gt;74. 扫码报名处显示扫码标识&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;horizontal=1;" vertex="1" parent="Xpi-BFBNgAl1asUub1Id-43">
+          <mxGeometry x="-2" y="30" width="152" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpi-BFBNgAl1asUub1Id-45" value="需求(1)" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#FF8000;strokeColor=none;startSize=23;align=left;verticalAlign=middle;spacingLeft=14;" vertex="1" collapsed="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="90" width="60" height="23" as="geometry">
+            <mxRectangle x="160" y="90" width="132" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xpi-BFBNgAl1asUub1Id-46" value="&lt;div&gt;&lt;span&gt;74. 删除简易报名&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;horizontal=1;" vertex="1" parent="Xpi-BFBNgAl1asUub1Id-45">
+          <mxGeometry x="-2" y="30" width="152" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
