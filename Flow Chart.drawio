@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T08:51:16.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="YfYACjeX7ABwlKw9aFwu" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-29T09:05:36.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="HYGPRB3BepC5om42N3BX" version="16.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2723" dy="5660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2723" dy="5735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -155,14 +155,6 @@
             <mxPoint x="610" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8CTjy8gL7TWKLckY6P0-0" value="等后台独立" style="swimlane;fontSize=15;opacity=0;fontStyle=1;labelBorderColor=none;labelBackgroundColor=#FFFF00;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" collapsed="1">
-          <mxGeometry x="450" y="-167" width="110" height="23" as="geometry">
-            <mxRectangle x="280" y="88.5" width="220" height="170" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Q8CTjy8gL7TWKLckY6P0-1" value="1. 编辑项重新设计&lt;b&gt;【见详细流程图】&lt;/b&gt;&lt;br&gt;（1）活动基本信息&lt;br&gt;（2）报名填报信息&lt;br&gt;（3）活动限制条件&lt;br&gt;&lt;br&gt;2. 编辑排版重新设计&lt;b&gt;【见蓝湖】&lt;/b&gt;&lt;br&gt;（1）增加封面图、增加排版&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;gradientColor=none;opacity=0;align=left;verticalAlign=top;" parent="Q8CTjy8gL7TWKLckY6P0-0" vertex="1">
-          <mxGeometry x="20" y="30" width="240" height="110" as="geometry" />
-        </mxCell>
         <mxCell id="Q8CTjy8gL7TWKLckY6P0-2" value="等APP" style="swimlane;fontSize=15;opacity=0;fontStyle=1;labelBorderColor=none;labelBackgroundColor=#33FFFF;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" collapsed="1">
           <mxGeometry x="780" y="33" width="80" height="23" as="geometry">
             <mxRectangle x="280" y="88.5" width="220" height="170" as="alternateBounds" />
@@ -173,14 +165,6 @@
         </mxCell>
         <mxCell id="Q8CTjy8gL7TWKLckY6P0-9" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFF00;strokeWidth=10;shadow=1;perimeterSpacing=10;opacity=50;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-740" y="-2190" width="1500" height="870" as="geometry" />
-        </mxCell>
-        <mxCell id="Q8CTjy8gL7TWKLckY6P0-13" value="等后台独立" style="swimlane;fontSize=15;opacity=0;fontStyle=1;labelBorderColor=none;labelBackgroundColor=#FFFF00;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" collapsed="1">
-          <mxGeometry x="420" y="353" width="130" height="27.18" as="geometry">
-            <mxRectangle x="280" y="88.5" width="220" height="170" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Q8CTjy8gL7TWKLckY6P0-14" value="1. 编辑项重新设计&lt;b&gt;【见详细流程图】&lt;/b&gt;&lt;br&gt;（1）活动基本信息&lt;br&gt;（2）报名填报信息&lt;br&gt;（3）活动限制条件&lt;br&gt;&lt;br&gt;2. 编辑排版重新设计&lt;b&gt;【见蓝湖】&lt;/b&gt;&lt;br&gt;（1）增加封面图、增加排版&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;gradientColor=none;opacity=0;align=left;verticalAlign=top;" parent="Q8CTjy8gL7TWKLckY6P0-13" vertex="1">
-          <mxGeometry x="20" y="30" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="3B7eSZ0378xvD8d0vk0m-49" value="" style="group;rotation=90;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="-620" y="-1880" width="1315" height="610" as="geometry" />
@@ -1494,6 +1478,30 @@
         </mxCell>
         <mxCell id="So1NN85ygT-J7soTUWMl-570" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;labelBackgroundColor=#CC0000;labelBorderColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2334" y="-1935" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YPhVIydPvoSLmCbHgdMR-2" value="问题 (2)" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#CC0000;strokeColor=none;startSize=23;align=left;spacingLeft=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="965" y="180" width="150" height="60" as="geometry">
+            <mxRectangle x="450" y="-140" width="60" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YPhVIydPvoSLmCbHgdMR-3" value="19" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;" vertex="1" parent="YPhVIydPvoSLmCbHgdMR-2">
+          <mxGeometry x="10" y="30" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YPhVIydPvoSLmCbHgdMR-4" value="问题 (1)" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#CC0000;strokeColor=none;startSize=23;align=left;spacingLeft=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="424.5" width="150" height="60" as="geometry">
+            <mxRectangle x="450" y="-140" width="60" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YPhVIydPvoSLmCbHgdMR-5" value="19" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;" vertex="1" parent="YPhVIydPvoSLmCbHgdMR-4">
+          <mxGeometry x="10" y="30" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YPhVIydPvoSLmCbHgdMR-6" value="问题 (6)" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#CC0000;strokeColor=none;startSize=23;align=left;spacingLeft=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="-167" width="150" height="60" as="geometry">
+            <mxRectangle x="450" y="-140" width="60" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YPhVIydPvoSLmCbHgdMR-7" value="19" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;" vertex="1" parent="YPhVIydPvoSLmCbHgdMR-6">
+          <mxGeometry x="10" y="30" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
