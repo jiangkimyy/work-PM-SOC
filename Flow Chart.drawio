@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T01:41:54.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="OvUMoOED1vIdHxB9X3B7" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-04T01:42:58.096Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ZPBIpq_MKDVtxiLwukEJ" version="16.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1609" dy="5154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1834,13 +1834,111 @@
         <mxCell id="dVzlRQP2SqwJj1ha71AS-4" value="图例：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=17;opacity=0;fontStyle=1;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="640" y="-230" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RFfqRiYLsRu-z_mDyerW-0" value="需求" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#FF8000;strokeColor=none;align=left;perimeterSpacing=0;spacingTop=0;spacingLeft=15;" vertex="1" collapsed="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="-2030" width="60" height="23" as="geometry">
-            <mxRectangle x="380" y="-2030" width="260" height="197" as="alternateBounds" />
+        <mxCell id="RFfqRiYLsRu-z_mDyerW-0" value="需求" style="swimlane;fontSize=15;fillColor=none;opacity=50;labelBackgroundColor=#FF8000;strokeColor=none;align=left;perimeterSpacing=0;spacingTop=0;spacingLeft=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="-2030" width="262" height="197" as="geometry">
+            <mxRectangle x="380" y="-2030" width="60" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RFfqRiYLsRu-z_mDyerW-1" value="1.在登录进连心平台，会有填写个人信息的引导，该个人信息储存在平台的用户信息表，不属于任何社团&lt;br&gt;&lt;span&gt;2. 用户在申请注册某一社团，如果连心注册项和社团注册项有重合，自动填入&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;horizontal=1;" vertex="1" parent="RFfqRiYLsRu-z_mDyerW-0">
-          <mxGeometry x="-2" y="30" width="262" height="110" as="geometry" />
+        <mxCell id="RFfqRiYLsRu-z_mDyerW-1" value="1.在登录进连心平台，会有填写个人信息的引导，该个人信息储存在平台的用户信息表，不属于任何社团&lt;br&gt;&lt;span&gt;2. 用户在申请注册某一社团，如果连心注册项和社团注册项有重合，自动填入&lt;br&gt;3. 已注册表方式进入连心的，成功后，应直接进入社团首页。&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelBackgroundColor=none;fontSize=15;opacity=50;horizontal=1;" vertex="1" parent="RFfqRiYLsRu-z_mDyerW-0">
+          <mxGeometry y="20" width="262" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="RFfqRiYLsRu-z_mDyerW-2" value="分享会员注册申请表/社团首页" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;glass=0;strokeWidth=1;shadow=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="37" y="-1110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RFfqRiYLsRu-z_mDyerW-3" value="登录SOC" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;glass=0;strokeWidth=1;shadow=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="-1110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RFfqRiYLsRu-z_mDyerW-4" value="选择机构" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;glass=0;strokeWidth=1;shadow=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="-1010" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RFfqRiYLsRu-z_mDyerW-5" value="登录SOC" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;glass=0;strokeWidth=1;shadow=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="37" y="-1010" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RFfqRiYLsRu-z_mDyerW-6" value="社团首页" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;glass=0;strokeWidth=1;shadow=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="137.5" y="-900" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RFfqRiYLsRu-z_mDyerW-7" value="申请注册" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="135" y="-800" width="125" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RFfqRiYLsRu-z_mDyerW-8" value="非会员" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;glass=0;strokeWidth=1;shadow=0;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="381.5" y="-770" width="88.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RFfqRiYLsRu-z_mDyerW-9" value="注册会员&lt;br&gt;（手机号自动填入，需填写其他注册信息）" style="whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-100" y="-584" width="160" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="RFfqRiYLsRu-z_mDyerW-10" value="是否已经是社团下部分机构的会员" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="135" y="-620" width="125" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RFfqRiYLsRu-z_mDyerW-11" value="注册会员&lt;br&gt;（已填写的会员资料自动填入，需填写新加入机构所需注册信息）" style="whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-103" y="-460" width="163" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RFfqRiYLsRu-z_mDyerW-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RFfqRiYLsRu-z_mDyerW-2" target="RFfqRiYLsRu-z_mDyerW-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="-1010" as="sourcePoint" />
+            <mxPoint x="110" y="-1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFfqRiYLsRu-z_mDyerW-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="-1070" as="sourcePoint" />
+            <mxPoint x="300" y="-1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFfqRiYLsRu-z_mDyerW-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.45;exitY=1.031;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RFfqRiYLsRu-z_mDyerW-5" target="RFfqRiYLsRu-z_mDyerW-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="-900" as="sourcePoint" />
+            <mxPoint x="220" y="-950" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="91" y="-940" />
+              <mxPoint x="198" y="-940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFfqRiYLsRu-z_mDyerW-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RFfqRiYLsRu-z_mDyerW-4" target="RFfqRiYLsRu-z_mDyerW-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="-900" as="sourcePoint" />
+            <mxPoint x="220" y="-950" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="-940" />
+              <mxPoint x="198" y="-940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFfqRiYLsRu-z_mDyerW-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RFfqRiYLsRu-z_mDyerW-6" target="RFfqRiYLsRu-z_mDyerW-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="-820" as="sourcePoint" />
+            <mxPoint x="220" y="-870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFfqRiYLsRu-z_mDyerW-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RFfqRiYLsRu-z_mDyerW-7" target="RFfqRiYLsRu-z_mDyerW-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="-730" as="sourcePoint" />
+            <mxPoint x="290" y="-780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFfqRiYLsRu-z_mDyerW-18" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="285" y="-740" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RFfqRiYLsRu-z_mDyerW-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RFfqRiYLsRu-z_mDyerW-7" target="RFfqRiYLsRu-z_mDyerW-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="-600" as="sourcePoint" />
+            <mxPoint x="220" y="-650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFfqRiYLsRu-z_mDyerW-20" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="-670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RFfqRiYLsRu-z_mDyerW-21" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="177.5" y="-470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RFfqRiYLsRu-z_mDyerW-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="RFfqRiYLsRu-z_mDyerW-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="198" y="-500" as="sourcePoint" />
+            <mxPoint x="207.5" y="-610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="198" y="-415" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
