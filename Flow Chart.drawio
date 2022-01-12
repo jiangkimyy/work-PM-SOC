@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T11:34:01.073Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="KwyTB3dBGFmH-wSHcF3y" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T06:16:49.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="RNsP2Gi7q2dQYQOE-dmJ" version="16.2.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2370" dy="5274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2530" dy="5473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -2059,6 +2059,7 @@
             <mxPoint x="1365" y="-2410" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1330" y="-2090" />
+              <mxPoint x="1770" y="-2150" />
               <mxPoint x="2190" y="-2090" />
             </Array>
           </mxGeometry>
@@ -2921,20 +2922,18 @@
         <mxCell id="QzstN-4PibzWz9Sp8dG4-26" value="总属会同意" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1693" y="-2300" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QzstN-4PibzWz9Sp8dG4-27" value="填写注册信息" style="whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1490" y="-2160" width="170" height="40" as="geometry" />
+        <mxCell id="QzstN-4PibzWz9Sp8dG4-27" value="建议新建连心账户" style="whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2000" y="-2285" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QzstN-4PibzWz9Sp8dG4-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="QzstN-4PibzWz9Sp8dG4-27" edge="1" source="QzstN-4PibzWz9Sp8dG4-22">
+        <mxCell id="QzstN-4PibzWz9Sp8dG4-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QzstN-4PibzWz9Sp8dG4-22" target="QzstN-4PibzWz9Sp8dG4-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1877" y="-2190" as="sourcePoint" />
             <mxPoint x="1660" y="-1980" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1877" y="-2140" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QzstN-4PibzWz9Sp8dG4-29" value="总属会不同意" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1684" y="-2170" width="120" height="30" as="geometry" />
+          <mxGeometry x="1920" y="-2315" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QzstN-4PibzWz9Sp8dG4-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QzstN-4PibzWz9Sp8dG4-24" target="EgU3hmSsOLnU5lJFLgk2-51" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2942,16 +2941,6 @@
             <mxPoint x="1190" y="-2270" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1440" y="-2265" />
-              <mxPoint x="1440" y="-2600" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QzstN-4PibzWz9Sp8dG4-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QzstN-4PibzWz9Sp8dG4-27" target="EgU3hmSsOLnU5lJFLgk2-51" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1570" y="-2300" as="sourcePoint" />
-            <mxPoint x="1620" y="-2350" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1440" y="-2140" />
               <mxPoint x="1440" y="-2600" />
             </Array>
           </mxGeometry>
@@ -3063,7 +3052,7 @@
             <mxPoint x="1750" y="-750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EuB-4I0pUSTJbDQHPI5W-1" value="提示需要向管理员&lt;br&gt;提出转会申请" style="whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="EuB-4I0pUSTJbDQHPI5W-1" value="提示需要向管理员&lt;br&gt;提出转会申请" style="whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2000" y="-2450" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
